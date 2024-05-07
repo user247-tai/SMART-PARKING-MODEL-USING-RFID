@@ -5,4 +5,5 @@ Summary of results:
 - Although the construction cost is not expensive, the construction model has worked effectively and with high accuracy.
 - The model has errors, but the errors are not significant and can be accepted.
 - This is still just a model, the actual application of building a real-sized smart parking lot may face greater difficulties and obstacles.
+
 Demo Video: https://drive.google.com/file/d/12_yhgYb_eKsg-c10sPQR8HoI8fufxcSh/view
